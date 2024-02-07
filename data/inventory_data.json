@@ -1,0 +1,5 @@
+[{"start_station_name": "Steinway St & 28 Ave" ,"start_station_id": 123, "bikeid":14997,"exchange_date":1507100040,"bikecount":1,"inventory_count":30},
+  {"start_station_name":"Allen St & Rivington St", "start_station_id": 123, "bikeid":16557,"exchange_date":1441309147,"bikecount":1,"inventory_count":30},
+  {"start_station_name":"E 19 St & 3 Ave", "start_station_id": 123, "bikeid":17889,"exchange_date":1372839025,"bikecount":-1,"inventory_count":0},
+  {"start_station_name":"1 Ave & E 44 St", "start_station_id": 123, "bikeid":19073,"exchange_date":1372791347,"bikecount":1,"inventory_count":15}
+]

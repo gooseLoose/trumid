@@ -1,0 +1,114 @@
+[
+    {
+      "name": "tripduration",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "Trip Duration (in seconds)",
+      "fields": []
+    },
+    {
+      "name": "starttime",
+      "mode": "NULLABLE",
+      "type": "DATETIME",
+      "description": "Start Time, in NYC local time.",
+      "fields": []
+    },
+    {
+      "name": "stoptime",
+      "mode": "NULLABLE",
+      "type": "DATETIME",
+      "description": "Stop Time, in NYC local time.",
+      "fields": []
+    },
+    {
+      "name": "start_station_id",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "Start Station ID",
+      "fields": []
+    },
+    {
+      "name": "start_station_name",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "Start Station Name",
+      "fields": []
+    },
+    {
+      "name": "start_station_latitude",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "Start Station Latitude",
+      "fields": []
+    },
+    {
+      "name": "start_station_longitude",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "Start Station Longitude",
+      "fields": []
+    },
+    {
+      "name": "end_station_id",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "End Station ID",
+      "fields": []
+    },
+    {
+      "name": "end_station_name",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "End Station Name",
+      "fields": []
+    },
+    {
+      "name": "end_station_latitude",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "End Station Latitude",
+      "fields": []
+    },
+    {
+      "name": "end_station_longitude",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "End Station Longitude",
+      "fields": []
+    },
+    {
+      "name": "bikeid",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "Bike ID",
+      "fields": []
+    },
+    {
+      "name": "usertype",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "User Type (Customer = 24-hour pass or 7-day pass user, Subscriber = Annual Member)",
+      "fields": []
+    },
+    {
+      "name": "birth_year",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "Year of Birth",
+      "fields": []
+    },
+    {
+      "name": "gender",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "Gender (unknown, male, female)",
+      "fields": []
+    },
+    {
+      "name": "customer_plan",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "The name of the plan that determines the rate charged for the trip",
+      "fields": []
+    }
+  ]
